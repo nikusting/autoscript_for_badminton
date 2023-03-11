@@ -1,0 +1,2 @@
+# autoscript_for_badminton
+学校的羽毛球场太难抢了，基于selenium写了个sport.py的脚本，当然也可以抢乒乓球和其他的，改改参数就好
